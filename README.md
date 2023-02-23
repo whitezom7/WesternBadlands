@@ -1,1 +1,1 @@
-# FrontierJusticeRP
+# Western Badlands
