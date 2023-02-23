@@ -18,3 +18,6 @@
   
   
 #### Lead Developer: [Whitezom](https://github.com/whitezom7)
+
+Copyright (C) 2023 Whitezom
+All rights reserved.
