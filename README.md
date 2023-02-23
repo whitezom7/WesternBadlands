@@ -17,4 +17,4 @@
   
   
   
-#### Lead Developer: [Whitezom](https://www.google.com)
+#### Lead Developer: [Whitezom](https://github.com/whitezom7)
